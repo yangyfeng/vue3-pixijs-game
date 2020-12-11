@@ -6,3 +6,7 @@ pixi.js:
 
 vue3:
   - https://vue3js.cn/docs/zh/
+
+访问页面：
+
+https://yangyfeng.github.io/vue3-pixijs-game/dist/index.html
